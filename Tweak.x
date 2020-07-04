@@ -1,0 +1,1 @@
+%hook YTLocalPlaybackController -(int)isPlaybackBackgroundable{return 1;}%end
